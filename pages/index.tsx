@@ -1,12 +1,16 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import Header from "../components/Header";
 
 const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Hulu - App</title>
+        <title>Hulu</title>
       </Head>
+      <Header />
+      {/* NavBar */}
+      {/* Results */}
     </div>
   );
 };
