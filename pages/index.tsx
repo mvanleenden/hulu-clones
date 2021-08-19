@@ -1,6 +1,8 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+
 import Header from "../components/Header";
+import Nav from "../components/Nav";
 
 const Home: NextPage = () => {
   return (
@@ -9,6 +11,7 @@ const Home: NextPage = () => {
         <title>Hulu</title>
       </Head>
       <Header />
+      <Nav />
       {/* NavBar */}
       {/* Results */}
     </div>
