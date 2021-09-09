@@ -8,8 +8,8 @@ https://hulu-clones.vercel.app/
 Need to create an .env.local file with the following env variables:
 + API_KEY
 
-You can find more information about the Google Search API Key and Context Key here:
-+ [API Key](https://api.themoviedb.org)
+You can find more information about the TheMovieDB API here:
++ [API](https://api.themoviedb.org)
 
 ## Getting Started
 
